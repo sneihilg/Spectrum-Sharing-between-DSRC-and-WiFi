@@ -1,3 +1,0 @@
-function age = optimize_age(beta,t_d,n)
-age = n*(((1-((1-t_d)^n)+beta)/(t_d*((1-t_d)^(n-1))))+(beta/2)+...
-    (((1+beta)*(1-((1-t_d)^n)))/(2*(1-((1-t_d)^n)+beta))));
