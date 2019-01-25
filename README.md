@@ -4,4 +4,4 @@ We investigate the coexistence of DSRC (a.k.a vehicular) and Wi-Fi networks in t
 
 Related Publications:
 1. S. Gopal and S. K. Kaul, "A game theoretic approach to DSRC and WiFi coexistence," IEEE INFOCOM 2018 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS), Honolulu, HI, 2018, pp. 565-570. URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8406967&isnumber=8406774, https://arxiv.org/pdf/1803.00552.pdf.
-2. S. Gopal, S. K. Kaul, and R. Chaturvedi, “Spectrum sharing between dsrc and wifi: A repeated game approach,” arXiv preprint arXiv:1901.07226, 2019. URL: https://arxiv.org/pdf/1901.07226.pdf.
+2. S. Gopal, S. K. Kaul, and R. Chaturvedi, “Spectrum Sharing between DSRC and WiFi: A Repeated Game Approach,” arXiv preprint arXiv:1901.07226, 2019. URL: https://arxiv.org/pdf/1901.07226.pdf.
