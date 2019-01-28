@@ -1,5 +1,3 @@
-# Spectrum Sharing between DSRC and WiFi
-
 We investigate the coexistence of DSRC (a.k.a vehicular) and Wi-Fi networks in the 5.85-5.925 GHz band. The coexistence scenario is of interest as it considers networks that use a similar medium access mechanism (CSMA/CA) but have different objectives. While nodes in a DSRC network would like to achieve a small age of information of status updates, the nodes in a Wi-Fi network would like to achieve high throughput. We employ a game theoretic approach to study the DSRC-WiFi coexistence problem.
 
 Related Publications:
